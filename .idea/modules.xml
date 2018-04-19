@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Implementation.iml" filepath="$PROJECT_DIR$/.idea/modules/Implementation.iml" group="Implementation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Implementation/Implementation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Implementation/Implementation_main.iml" group="Implementation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Implementation/Implementation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Implementation/Implementation_test.iml" group="Implementation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PluginFramework.iml" filepath="$PROJECT_DIR$/.idea/modules/PluginFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PluginFramework_main.iml" filepath="$PROJECT_DIR$/.idea/modules/PluginFramework_main.iml" group="PluginFramework" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PluginFramework_test.iml" filepath="$PROJECT_DIR$/.idea/modules/PluginFramework_test.iml" group="PluginFramework" />
+    </modules>
+  </component>
+</project>
